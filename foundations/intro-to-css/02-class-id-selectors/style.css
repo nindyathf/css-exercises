@@ -1,1 +1,21 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
 /* Add CSS Styling */
